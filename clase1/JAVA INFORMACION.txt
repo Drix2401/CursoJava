@@ -1,0 +1,18 @@
+Java Programacion
+------------------
+
+Asistencia
+
+obligatoria al 75
+sabados 8-13.30
+
+Calificacion
+   Certificado       14 nota final
+-------------------------------------------
+Asistencia           11puntos x clase
+Participaciones      +1,+2,+4... xclase
+                     Promedio
+-------------------------------------------------
+Examen final (ultimas 3 horas - clase 4)    1-20ptos
+------------------------------------------------------
+Nota final                 (Examen Final + Promedio)/2
